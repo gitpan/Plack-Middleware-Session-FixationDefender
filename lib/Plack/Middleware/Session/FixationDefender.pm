@@ -4,7 +4,7 @@ use strict;
 
 use parent 'Plack::Middleware::Session';
 
-our $VERSION = '0.04';
+our $VERSION = '0.04b';
 
 sub commit {
     my($self, $env) = @_;
@@ -36,7 +36,7 @@ Plack::Middleware::Session::FixationDefender - Plack::Middleware::Session + fixa
 
     # app.psgi
     builder {
-        enable 'Session::Fixation',
+        enable 'Session::FixationDefender',
         $app;
     };
 

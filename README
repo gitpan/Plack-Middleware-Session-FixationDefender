@@ -1,4 +1,4 @@
-Plack-Middleware-Session-Fixation version 0.01
+Plack-Middleware-Session-FixationDefender
 
 Session Fixation対策として、ログイン処理後SessionIDの変更を可能に
 Catalyst::Plugin::Session の change_session_id に相当します

@@ -1,5 +1,8 @@
 Revision history for Plack-Middleware-Session-Fixation
 
+0.04b Wed Dec 22 16:05:00 2010
+       edit README, SYNOPSIS
+
 0.04  Wed Dec 22 16:05:00 2010
        rename Fixation => FixationDefender
 

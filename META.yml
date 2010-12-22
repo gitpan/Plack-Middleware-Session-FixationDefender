@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Plack-Middleware-Session-FixationDefender
-version:            0.04
+version:            0.04b
 abstract:           Plack::Middleware::Session + fixation block
 author:
     - Shinichiro Aska <s.aska.org@gmail.com>
