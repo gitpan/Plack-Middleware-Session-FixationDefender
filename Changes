@@ -1,0 +1,15 @@
+Revision history for Plack-Middleware-Session-Fixation
+
+0.04  Wed Dec 22 16:05:00 2010
+       rename Fixation => FixationDefender
+
+0.03  Wed Dec 22 12:09:00 2010
+       deleted:    t/perlcritic.t
+       deleted:    t/pod-coverage.t
+
+0.02  Wed Dec 15 23:23:10 2010
+       add depend.
+
+0.01  Tue Dec 14 17:08:25 2010
+       Initial release.
+

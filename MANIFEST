@@ -1,0 +1,9 @@
+Changes
+lib/Plack/Middleware/Session/FixationDefender.pm
+Makefile.PL
+MANIFEST
+META.yml
+README
+t/00.load.t
+t/01.fixation.t
+t/pod.t

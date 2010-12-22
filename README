@@ -1,0 +1,14 @@
+Plack-Middleware-Session-Fixation version 0.01
+
+Session Fixation対策として、ログイン処理後SessionIDの変更を可能に
+Catalyst::Plugin::Session の change_session_id に相当します
+
+- http://www.ipa.go.jp/security/vuln/documents/website_security.pdf (Japanese)
+- http://www.ipa.go.jp/security/vuln/documents/website_security_en.pdf (English)
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2010, Shinichiro Aska
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
